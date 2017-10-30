@@ -1,0 +1,1 @@
+{"timestamp":1509375461648,"status":500,"error":"Internal Server Error","message":"Missing URI template variable 'product' for method parameter of type Product","path":"/products"}
